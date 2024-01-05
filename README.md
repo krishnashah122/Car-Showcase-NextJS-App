@@ -1,9 +1,10 @@
 # Car Showcase NextJS App
 
-![Car Showcase NextJS App](https://github.com/krishnashah122/Car-Showcase-NextJS-App/assets/64410232/db70c26e-ea71-41d1-855a-1ef1c4607522)
-
 The Car Showcase NextJS App is a web application built using Next.js, TypeScript, and Tailwind CSS to showcase different car models, provide information about them, and display their rental prices. This project also uses an API from Rapid API to fetch data about car models and their rental prices.
 
+# Screenshot
+
+![Car Showcase NextJS App](https://github.com/krishnashah122/Car-Showcase-NextJS-App/assets/64410232/db70c26e-ea71-41d1-855a-1ef1c4607522)
 
 ## Features
 
